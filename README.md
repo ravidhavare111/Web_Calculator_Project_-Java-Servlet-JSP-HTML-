@@ -9,13 +9,15 @@ Tech Stack - Core Java, Servlet, JSP, HTML, CSS, Eclipse IDE.
 
 **Home page:-**
 
-![Home page](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/a94f82af-e2fb-4d7b-8dbf-63f7f1d998dd)
+![Home page 2](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/ad6bfc01-4b16-482b-a3e8-0cabee0a573e)
+
 
 
 
 **Answer page with tech-joke:-**
 
-![Answer page](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/a3fa8de7-0057-41d0-8d66-7141c1127b7e)
+![Answer page 2](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/afea8088-faa4-4282-8700-c83566aa48fb)
+
 
 
 
