@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.BodyTag{
+
+	text-align:center;
+	background: linear-gradient(to right, #2b40ff, #07121a);
+}
+
+.h1{
+color: white;
+margin:15px;
+}
+
+.h3{
+color: white;
+margin:5px;
+}
+
+.answer{
+color: white;
+margin:15px;
+text-decoration: underline;
+}
+
+.input, button {
+  font-size:25px;
+  color: white;
+  border-radius: 5%;
+  background-color: black;
+  border: 2px solid white;
+}
+
+.image{
+width: 20%;
+height:20%;
+margin-top: 20px;
+}
+image:hover{
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+   transform: scale(1.2); 
+}
+
+.Home{
+	font-size:25px;
+	color: white;
+	margin:20px;
+	border-radius: 5%;
+    background-color: black;
+    border: 2px solid white;
+
+}
