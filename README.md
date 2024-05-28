@@ -23,4 +23,5 @@ Tech Stack - Core Java, Servlet, JSP, HTML, CSS, Eclipse IDE.
 
 **Short video of project operating:-**
 
-![Web Calculator project video](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/a6650506-9c09-4ed1-a10f-d0b0f6bb8230)
+![Web Calculator Project Video](https://github.com/ravidhavare111/Web_Calculator_Project_-Java-Servlet-JSP-HTML-/assets/100593775/ee4a4eeb-b8f5-4640-93db-efb11704d032)
+
